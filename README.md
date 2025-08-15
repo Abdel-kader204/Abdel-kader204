@@ -27,7 +27,7 @@ Goal: Leverage data to solve real-world problems and make a positive business im
 ## 🎯 Skills & Tools
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Python+🐍;Excel+📈;Power+BI+📊;Tableau+📊;Google+Data+Studio+📊;HTML5+🌐;CSS3+🎨;JavaScript+⚡">
+  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Excel+📈;Power+BI+📊;Tableau+📊;SQL+🗄️;Python+🐍;HTML5+🌐;CSS3+🎨;JavaScript+⚡">
 </p>
 
 <p align="center">
@@ -36,6 +36,7 @@ Goal: Leverage data to solve real-world problems and make a positive business im
   <img height="50" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" />
   <img height="50" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
   <img height="50" src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" />
+  <img height="50" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
   <img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
   <img height="50" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
   <img height="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
